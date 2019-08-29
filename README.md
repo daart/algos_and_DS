@@ -1,4 +1,4 @@
-#This is a self paced Algorithms and Data Structures Course
+# This is a self paced Algorithms and Data Structures Course
 
 ## Languages used: Python and JavaScript
 
